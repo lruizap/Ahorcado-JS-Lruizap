@@ -87,3 +87,13 @@ label p {
   letter-spacing: 20px;
   text-align: center;
 }
+
+#Game,
+#YES,
+#NO {
+  font-size: 40px;
+}
+
+#GameP {
+  margin-top: 2em;
+}
